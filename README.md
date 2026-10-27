@@ -48,7 +48,7 @@ Tagi: ID3v2.2–2.4 i ID3v1, Vorbis comments (FLAC), RIFF INFO i chunk `id3 ` (W
 Potrzebny macOS 13+ oraz Xcode lub Command Line Tools (`xcode-select --install`).
 
 ```bash
-git clone https://github.com/<twoj-login>/CrateSort.git
+git clone https://github.com/djzombie3244/CrateSort.git
 cd CrateSort
 ./build-app.sh
 ```
